@@ -5,8 +5,6 @@ alias firefox="open -a 'Firefox'"
 alias chrome="open -a 'Google Chrome'"
 alias safari="open -a 'Safari'"
 
-
-
 ###PATH###
 export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
 
