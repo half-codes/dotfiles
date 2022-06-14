@@ -9,3 +9,6 @@ alias safari="open -a 'Safari'"
 
 ###PATH###
 export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
+
+###AUTOLOAD###
+eval "$(rbenv init - bash)"
